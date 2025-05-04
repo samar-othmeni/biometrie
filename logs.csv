@@ -1,0 +1,23 @@
+fp24.png,chiffrement,échoué,non autorisé,,2025-05-04 03:01:54
+3,chiffrement,échoué,non autorisé,,2025-05-04 03:02:47
+fp24.png,déchiffrement,échoué,intrus,,2025-05-04 03:03:31
+fp24.png,déchiffrement,réussi,autorisé,secret3.txt,2025-05-04 03:04:44
+fp2,chiffrement,échoué,non autorisé,,2025-05-04 03:05:13
+fp24.txt,déchiffrement,échoué,intrus,,2025-05-04 03:05:57
+fp24.png,déchiffrement,réussi,autorisé,secret.txt.enc,2025-05-04 03:06:50
+fp24.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:08:05
+fp24.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:11:49
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:14:15
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:18:07
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:19:20
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:29:15
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 03:36:34
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:21:55
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:24:45
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:27:12
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:42:47
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:46:27
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 09:59:37
+fp1.png,déchiffrement,réussi,autorisé,secretFile2.txt.enc,2025-05-04 10:08:17
+fp23.png,chiffrement,échoué,non autorisé,,2025-05-04 10:31:40
+fp23.png,chiffrement,réussi,autorisé,secret.txt,2025-05-04 10:33:14
